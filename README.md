@@ -1,17 +1,18 @@
 # AI/ML Course Labs (Refreshed)
 
-This repository contains cleaned, commented, and updated versions of 6 AI/ML labs from a university course. Each lab explores foundational machine learning algorithms, implemented in Python and reviewed for continued learning.
+This repository contains cleaned, commented, and updated versions of 7 AI/ML labs from a university course. Each lab explores foundational machine learning algorithms, implemented in Python and reviewed for continued learning.
 
 ## Labs Overview
 
 | Lab | Topic                  | Highlights |
 |-----|------------------------|------------|
-| 1   | Linear Regression      | Manual vs sklearn, loss plots |
-| 2   | Logistic Regression    | Binary classifier, ROC/AUC    |
-| 3   | Decision Trees         | Gini/Entropy, pruning         |
-| 4   | Support Vector Machines| Kernels, margin tuning        |
-| 5   | K-Nearest Neighbors    | Distance metrics, scaling     |
-| 6   | Neural Networks        | Backprop, activation funcs    |
+| 1   | Exploring Table Data      | Analyzing data quality issues |
+| 2   | ~~Exploring Image Data Grade Computation~~ [Unrecoverable]   | *Replacing with computer vision personal project*    |
+| 3   | Extending Logistic Regression         | Compare logistic regression methods        |
+| 4   | The Multi-Layer Perceptron| Implement multi-layer perceptrons        |
+| 5   | Wide and Deep Networks   | Evaluate deep learning models and tune hyper params.     |
+| 6   | CNNs       | Build and tune deep learning model   |
+| 7   | RNNs       |Build and tune recurrent model    |
 
 ## Goals
 - Revisit and reinforce course material

@@ -39,17 +39,19 @@ The main analysis is contained in [`lab1_exploring_table_data.ipynb`](./lab1_exp
 
 ## 👤 Authors
 
-- **Naim Barnett**
+- **Naim B.**
 - **Susan B.**
 - **Akshay P.**
 
-## 📂 Structure
+## 📂 Project Structure
+
+```text
 lab1-exploring-table-data/
 ├── house_rent_dataset.zip/
-│ └── house_rent_dataset.csv # Raw dataset
-│ └── Dataset Glossary # Feature definitions
-├── lab1_exploring_table_data.ipynb # Main analysis notebook
-└── README.md # Project description (this file)
+│   ├── house_rent_dataset.csv        # Raw dataset
+│   └── Dataset Glossary              # Feature definitions
+├── lab1_exploring_table_data.ipynb   # Main analysis notebook
+└── README.md                         # Project description (this file)
 
 
 ## 📝 License

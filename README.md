@@ -7,7 +7,7 @@ This repository contains cleaned, commented, and updated versions of 7 AI/ML lab
 | Lab | Topic                  | Highlights |
 |-----|------------------------|------------|
 | 1   | Exploring Table Data      | Analyzing data quality issues |
-| 2   | ~~Exploring Image Data Grade Computation~~ [Unrecoverable]   | *Replacing with computer vision personal project*    |
+| 2   | Exploring Image Data Grade Computation  |  Preprocessing and visually exploring a raw image dataset |
 | 3   | Extending Logistic Regression         | Compare logistic regression methods        |
 | 4   | The Multi-Layer Perceptron| Implement multi-layer perceptrons        |
 | 5   | Wide and Deep Networks   | Evaluate deep learning models and tune hyper params.     |

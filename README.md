@@ -4,15 +4,16 @@ This repository contains cleaned, commented, and updated versions of 7 AI/ML lab
 
 ## Labs Overview
 
-| Lab | Topic                  | Highlights |
-|-----|------------------------|------------|
-| 1   | Exploring Table Data      | Analyzing data quality issues |
-| 2   | Exploring Image Data Grade Computation  |  Preprocessing and visually exploring a raw image dataset |
-| 3   | Extending Logistic Regression         | Compare logistic regression methods        |
-| 4   | The Multi-Layer Perceptron| Implement multi-layer perceptrons        |
-| 5   | Wide and Deep Networks   | Evaluate deep learning models and tune hyper params.     |
-| 6   | CNNs       | Build and tune deep learning model   |
-| 7   | RNNs       |Build and tune recurrent model    |
+| Lab | Topic                        | Highlights                                   | Status       |
+|-----|------------------------------|----------------------------------------------|--------------|
+| 1   | Exploring Table Data         | Analyzing data quality issues                 | ✅ Completed |
+| 2   | Exploring Image Data ...     | Preprocessing and visually exploring dataset  | ⏳ Planned   |
+| 3   | Extending Logistic Regression| Compare logistic regression methods           | ⏳ Planned   |
+| 4   | The Multi-Layer Perceptron   | Implement multi-layer perceptrons             | ⏳ Planned   |
+| 5   | Wide and Deep Networks       | Evaluate deep learning models                 | ⏳ Planned   |
+| 6   | CNNs                         | Build and tune deep learning model            | ⏳ Planned   |
+| 7   | RNNs                         | Build and tune recurrent model                | ⏳ Planned   |
+
 
 ## Goals
 - Revisit and reinforce course material

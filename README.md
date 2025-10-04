@@ -1,12 +1,14 @@
 # AI/ML Course Labs (Refreshed)
 
-This repository contains cleaned, commented, and updated versions of 7 AI/ML labs from a university course. Each lab explores foundational machine learning algorithms, implemented in Python and reviewed for continued learning.
+This repository contains  7 AI/ML labs from a university course. Each lab explores foundational machine learning algorithms, implemented in Python and reviewed for continued learning.
+
+The lab folders have now been uploaded (all Labs 1–7), but these versions are unrefined and will be cleaned and improved in future commits.
 
 ## Labs Overview
 
 | Lab | Topic                        | Highlights                                   | Status       |
 |-----|------------------------------|----------------------------------------------|--------------|
-| 1   | Exploring Table Data         | Analyzing data quality issues                 | ✅ Completed |
+| 1   | Exploring Table Data         | Analyzing data quality issues                 | ⏳ Planned   |
 | 2   | Exploring Image Data ...     | Preprocessing and visually exploring dataset  | ⏳ Planned   |
 | 3   | Extending Logistic Regression| Compare logistic regression methods           | ⏳ Planned   |
 | 4   | The Multi-Layer Perceptron   | Implement multi-layer perceptrons             | ⏳ Planned   |

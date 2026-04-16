@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Data / outputs (optional large files)
+*.zip
+*.csv
+*.npy
+*.h5
+
+# Env
+.env
+venv/

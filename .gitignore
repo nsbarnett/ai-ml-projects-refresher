@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local notebook/runtime outputs
+.jupyter/
+
+# Large local datasets that are documented but not committed
+Data/
+data/raw/
